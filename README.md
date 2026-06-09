@@ -1,6 +1,7 @@
 # NACE Lookup API
 
 This API serves NACE codes from the `naceCodes` JSON files using Hono.
+The dataset follows NACE Rev 2.1.
 
 ## Running the app
 
